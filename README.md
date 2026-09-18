@@ -1,4 +1,4 @@
-# ¡Hola! Samuel Moreira
+# ¡Hola! Soy Samuel Moreira
 
 ## Desarrollador de Software
 
