@@ -1,6 +1,6 @@
 # Mis Habilidades Tecnicas
 
-## 🛠️ Tecnologías
+## Tecnologías
 
 ### Lenguajes
 
@@ -64,7 +64,7 @@
 
 ---
 
-## 📌 Proyecto destacado
+## Proyecto destacado
 
 ### ERP Multimadera
 
