@@ -34,8 +34,6 @@
 
 [![Android SDK](https://img.shields.io/badge/Android_SDK-3DDC84?style=flat-square&logo=android&logoColor=white)](https://developer.android.com/tools)
 [![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
-- Funcionamiento offline
-- Sincronización de datos con [![REST API](https://img.shields.io/badge/APIs_REST-02569B?style=flat-square&logo=fastapi&logoColor=white)](https://developer.mozilla.org/es/docs/Glossary/API)
 
 ### Bases de datos
 
