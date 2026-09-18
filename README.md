@@ -1,6 +1,4 @@
 
-## 🛠️ Habilidades técnicas
-
 ### Lenguajes
 
 - TypeScript
@@ -77,9 +75,3 @@ Sistema empresarial desarrollado con:
 - **Arquitectura:** Capas, inyección de dependencias y Feature-Driven Architecture
 
 ---
-
-## 📫 Contacto
-
-- GitHub: [@windows16](https://github.com/windows16)
-- LinkedIn: [Agregar perfil de LinkedIn](https://www.linkedin.com/)
-- Email: `tu-correo@example.com`
