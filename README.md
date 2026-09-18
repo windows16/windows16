@@ -1,6 +1,5 @@
-# Mis Habilidades Tecnicas
 
-## Tecnologías
+##  Mis Habilidades Tecnicas
 
 ### Lenguajes
 
@@ -43,9 +42,9 @@
 
 ### Integraciones
 
-- [![SAP S/4HANA](https://img.shields.io/badge/SAP_S%2F4HANA-0FAAFF?style=flat-square&logo=sap&logoColor=white)](https://www.sap.com/products/erp/s4hana.html)
-- [![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat-square&logo=fastapi&logoColor=white)](https://developer.mozilla.org/es/docs/Glossary/REST)
-- Integración entre [![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/sql-server) y [![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white)](https://www.sap.com/)
+[![SAP S/4HANA](https://img.shields.io/badge/SAP_S%2F4HANA-0FAAFF?style=flat-square&logo=sap&logoColor=white)](https://www.sap.com/products/erp/s4hana.html)
+[![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat-square&logo=fastapi&logoColor=white)](https://developer.mozilla.org/es/docs/Glossary/REST)
+Integración entre [![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/sql-server) y [![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white)](https://www.sap.com/)
 
 
 ### Herramientas y tecnologías
