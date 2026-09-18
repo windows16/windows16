@@ -23,64 +23,64 @@
 
 ### Lenguajes
 
-- TypeScript
-- JavaScript
-- C#
-- SQL
-- Java
-- HTML
-- CSS
+- [TypeScript](https://www.typescriptlang.org/)
+- [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript)
+- [C#](https://learn.microsoft.com/dotnet/csharp/)
+- [SQL](https://www.w3schools.com/sql/)
+- [Java](https://www.java.com/)
+- [HTML](https://developer.mozilla.org/es/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/es/docs/Web/CSS)
 
 ### Backend
 
-- Node.js
-- Express
-- APIs REST
+- [Node.js](https://nodejs.org/)
+- [Express](https://expressjs.com/)
+- [APIs REST](https://developer.mozilla.org/es/docs/Glossary/REST)
 - Arquitectura en capas
 - Inyección de dependencias
-- Awilix
-- Validación de DTOs con Zod
-- Autenticación con JWT
-- Control de acceso basado en roles — RBAC
+- [Awilix](https://github.com/je惯/awilix)
+- [Validación de DTOs con Zod](https://zod.dev/)
+- [Autenticación con JWT](https://jwt.io/)
+- [Control de acceso basado en roles — RBAC](https://auth0.com/docs/manage-users/access-control/rbac)
 
 ### Frontend
 
-- React
-- TypeScript
+- [React](https://react.dev/)
+- [TypeScript](https://www.typescriptlang.org/)
 - Arquitectura Feature-Driven
-- HTML5
-- CSS3
+- [HTML5](https://developer.mozilla.org/es/docs/Web/HTML)
+- [CSS3](https://developer.mozilla.org/es/docs/Web/CSS)
 
 ### Aplicaciones móviles
 
-- Android SDK
-- SQLite
+- [Android SDK](https://developer.android.com/tools)
+- [SQLite](https://www.sqlite.org/)
 - Funcionamiento offline
-- Sincronización de datos con APIs
+- Sincronización de datos con [APIs](https://developer.mozilla.org/es/docs/Glossary/API)
 
 ### Bases de datos
 
-- PostgreSQL
-- SQL Server
-- SQLite
+- [PostgreSQL](https://www.postgresql.org/)
+- [SQL Server](https://www.microsoft.com/sql-server)
+- [SQLite](https://www.sqlite.org/)
 
 ### Integraciones
 
-- SAP S/4HANA
-- APIs REST
-- Integración entre SQL Server y SAP
+- [SAP S/4HANA](https://www.sap.com/products/erp/s4hana.html)
+- [APIs REST](https://developer.mozilla.org/es/docs/Glossary/REST)
+- Integración entre [SQL Server](https://www.microsoft.com/sql-server) y [SAP](https://www.sap.com/)
 - Sincronización de datos
 - Migración de información empresarial
 
 ### Herramientas y tecnologías
 
-- Git
-- GitHub
-- .NET
-- WebForms
-- WinForms
-- Express
-- Supabase
+- [Git](https://git-scm.com/)
+- [GitHub](https://github.com/)
+- [.NET](https://dotnet.microsoft.com/)
+- [WebForms](https://learn.microsoft.com/aspnet/web-forms/)
+- [WinForms](https://learn.microsoft.com/dotnet/desktop/winforms/)
+- [Express](https://expressjs.com/)
+- [Supabase](https://supabase.com/)
 
 ---
 
@@ -90,10 +90,10 @@
 
 Sistema empresarial desarrollado con:
 
-- **Backend:** Node.js, Express y TypeScript
-- **Frontend:** React y TypeScript
-- **Base de datos:** Supabase y PostgreSQL
-- **Seguridad:** JWT y RBAC
+- **Backend:** [Node.js](https://nodejs.org/), [Express](https://expressjs.com/) y [TypeScript](https://www.typescriptlang.org/)
+- **Frontend:** [React](https://react.dev/) y [TypeScript](https://www.typescriptlang.org/)
+- **Base de datos:** [Supabase](https://supabase.com/) y [PostgreSQL](https://www.postgresql.org/)
+- **Seguridad:** [JWT](https://jwt.io/) y [RBAC](https://auth0.com/docs/manage-users/access-control/rbac)
 - **Arquitectura:** Capas, inyección de dependencias y Feature-Driven Architecture
 
 ---
