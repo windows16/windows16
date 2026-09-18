@@ -57,7 +57,7 @@ Integración entre [![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927
 
 ---
 
-## Proyecto destacado
+## Proyectos
 
 ### ERP Multimadera
 
