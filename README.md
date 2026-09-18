@@ -1,12 +1,4 @@
 
-## Desarrollador de Software
-
-Soy desarrollador de software interesado en la creación de aplicaciones web, móviles y de escritorio. Me especializo en el desarrollo backend con Node.js y TypeScript, frontend con React y el diseño de APIs REST seguras y escalables.
-
-Actualmente estoy fortaleciendo mis conocimientos en arquitectura de software, bases de datos, integración de sistemas y desarrollo de soluciones empresariales.
-
----
-
 ## 🛠️ Habilidades técnicas
 
 ### Lenguajes
