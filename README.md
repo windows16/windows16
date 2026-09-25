@@ -1,16 +1,36 @@
-## Hi there 👋
 
-<!--
-**windows16/windows16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Desarrollador de software que construye sistemas ERP y aplicaciones siguiendo estándares de arquitectura definidos.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+Trabajando en <b>Multimadera</b>, un ERP full-stack para una empresa (React · Node.js · PostgreSQL)
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  
+### Stack
+
+<table>
+  <tr>
+    <td align="left"><b>Frontend & Móvil</b></td>
+    <td align="left"><img src="https://go-skill-icons.vercel.app/api/icons?i=react,tailwind,java&theme=dark" /> </td>
+  </tr>
+  <tr>
+    <td align="left"><b>Backend & Data</b></td>
+    <td align="left"><img src="https://skillicons.dev/icons?i=ts,nodejs,express,postgres&theme=dark" /></td>
+  </tr>
+  <tr>
+    <td align="left"><b>DevOps & Herramientas</b></td>
+    <td align="left"><img src="https://skillicons.dev/icons?i=docker,githubactions,vscode,androidstudio,git&theme=dark" /></td>
+  </tr>
+</table>
+
+</div>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-moreira-2725a4369)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samuelisimo853@gmail.com)
+
+</div>
