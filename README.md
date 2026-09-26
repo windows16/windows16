@@ -14,7 +14,7 @@ Trabajando en <b>Multimadera</b>, un ERP full-stack para una empresa (React · N
 <table>
   <tr>
     <td align="left"><b>Frontend & Móvil</b></td>
-    <td align="left"><img src="https://skillicons.dev/icons?i=react,tailwind,java,dart,flutter&theme=dark" /> </td>
+    <td align="left"><img src="https://skillicons.dev/icons?i=react,tailwind,java,flutter,dart&theme=dark" /> </td>
   </tr>
   <tr>
     <td align="left"><b>Backend & Data</b></td>
