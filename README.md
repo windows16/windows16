@@ -14,15 +14,15 @@ Trabajando en <b>Multimadera</b>, un ERP full-stack para una empresa (React · N
 <table>
   <tr>
     <td align="left"><b>Frontend & Móvil</b></td>
-    <td align="left"><img src="https://skillicons.dev/icons?i=react,tailwind,androidsdk,flutter,dart&theme=dark" /> </td>
+    <td align="left"><img src="https://go-skill-icons.vercel.app/api/icons?i=react,tailwind,androidsdk,flutter,dart&theme=dark" /> </td>
   </tr>
   <tr>
     <td align="left"><b>Backend & Data</b></td>
-    <td align="left"><img src="https://skillicons.dev/icons?i=ts,nodejs,express,postgres&theme=dark" /></td>
+    <td align="left"><img src="https://go-skill-icons.vercel.app/api/icons?i=ts,nodejs,express,postgres&theme=dark" /></td>
   </tr>
   <tr>
     <td align="left"><b>DevOps & Herramientas</b></td>
-    <td align="left"><img src="https://skillicons.dev/icons?i=docker,githubactions,vscode,androidstudio,git&theme=dark" /></td>
+    <td align="left"><img src="https://go-skill-icons.vercel.app/api/icons?i=docker,githubactions,vscode,androidstudio,git&theme=dark" /></td>
   </tr>
 </table>
 
