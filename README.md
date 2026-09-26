@@ -14,7 +14,7 @@ Trabajando en <b>Multimadera</b>, un ERP full-stack para una empresa (React · N
 <table>
   <tr>
     <td align="left"><b>Frontend & Móvil</b></td>
-    <td align="left"><img src="https://go-skill-icons.vercel.app/api/icons?i=react,tailwind,androidstudio,flutter&theme=dark" /> </td>
+    <td align="left"><img src="https://go-skill-icons.vercel.app/api/icons?i=react,tailwind,android,flutter&theme=dark" /> </td>
   </tr>
   <tr>
     <td align="left"><b>Backend & Data</b></td>
@@ -22,7 +22,7 @@ Trabajando en <b>Multimadera</b>, un ERP full-stack para una empresa (React · N
   </tr>
   <tr>
     <td align="left"><b>DevOps & Herramientas</b></td>
-    <td align="left"><img src="https://go-skill-icons.vercel.app/api/icons?i=docker,githubactions,vscode,git&theme=dark" /></td>
+    <td align="left"><img src="https://go-skill-icons.vercel.app/api/icons?i=docker,githubactions,androidstudio,vscode,git&theme=dark" /></td>
   </tr>
 </table>
 
