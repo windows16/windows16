@@ -11,7 +11,7 @@ Trabajando en <b>Multimadera</b>, un ERP full-stack para una empresa (React · N
   
 ### Stack
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=react,tailwind,flutter,ts,nodejs,express,postgres,docker,githubactions,androidstudio,vscode,git&theme=dark" /> 
+<img src="https://go-skill-icons.vercel.app/api/icons?i=react,flutter,ts,nodejs,express,postgres,docker,githubactions,androidstudio,vscode,git&theme=dark" /> 
 
 </div>
 
