@@ -1,6 +1,6 @@
 
 <p align="center">
-Desarrollador de software que construye sistemas ERP y aplicaciones siguiendo estándares de arquitectura definidos.
+Desarrollador de software que construye aplicaciones siguiendo estándares de arquitectura y seguridad definidos.
 </p>
 
 <p align="center">
