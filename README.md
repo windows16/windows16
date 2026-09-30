@@ -13,7 +13,7 @@ Trabajando en <b>Multimadera</b>, un ERP full-stack para una empresa (React · N
 <table>
   <tr>
     <th>Backend</th>
-    <th>Frontend &amp; movil</th>
+    <th>Frontend &amp; Movil</th>
     <th>Databases</th>
     <th>DevOps &amp; Herramientas</th>
   </tr>
