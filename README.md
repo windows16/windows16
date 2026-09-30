@@ -1,4 +1,3 @@
-
 <p align="center">
 Desarrollador de software que construye aplicaciones siguiendo estándares de arquitectura y seguridad definidos.
 </p>
@@ -8,10 +7,31 @@ Trabajando en <b>Multimadera</b>, un ERP full-stack para una empresa (React · N
 </p>
 
 <div align="center">
-  
+
 ### Stack
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=react,flutter,ts,nodejs,express,postgres,docker,androidstudio,vscode,git&theme=dark" /> 
+<table>
+  <tr>
+    <th>💻 Backend</th>
+    <th>🎨 Frontend</th>
+    <th>🗄️ Databases</th>
+    <th>🛠️ DevOps &amp; Tools</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs,ts,spring,java,cs" alt="Backend stack" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react,angular,redux,sass" alt="Frontend stack" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=postgres,mongodb,oracle,firebase" alt="Database stack" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=docker,aws,jenkins,git,postman" alt="DevOps and tools stack" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
