@@ -19,16 +19,16 @@ Trabajando en <b>Multimadera</b>, un ERP full-stack para una empresa (React · N
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs,ts,spring,java,cs" alt="Backend stack" />
+      <img src="https://skillicons.dev/icons?i=nodejs,ts,express" alt="Backend stack" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=react,angular,redux,sass" alt="Frontend stack" />
+      <img src="https://skillicons.dev/icons?i=react,flutter" alt="Frontend stack" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=postgres,mongodb,oracle,firebase" alt="Database stack" />
+      <img src="https://skillicons.dev/icons?i=supabase, postgre" alt="Database stack" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=docker,aws,jenkins,git,postman" alt="DevOps and tools stack" />
+      <img src="https://skillicons.dev/icons?i=docker,vscode,androidstudio,git" alt="DevOps and tools stack" />
     </td>
   </tr>
 </table>
