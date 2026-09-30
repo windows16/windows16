@@ -19,13 +19,13 @@ Trabajando en <b>Multimadera</b>, un ERP full-stack para una empresa (React · N
   </tr>
   <tr>
     <td align="center">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,ts,express" alt="Backend stack" />
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,ts,express,supabase" alt="Backend stack" />
     </td>
     <td align="center">
       <img src="https://go-skill-icons.vercel.app/api/icons?i=react,tailwindcss,flutter" alt="Frontend stack" />
     </td>
     <td align="center">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=supabase,postgres,mysql" alt="Database stack" />
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=postgres,mysql" alt="Database stack" />
     </td>
     <td align="center">
       <img src="https://go-skill-icons.vercel.app/api/icons?i=docker,vscode,androidstudio,git" alt="DevOps and tools stack" />
