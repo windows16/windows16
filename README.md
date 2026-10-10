@@ -16,6 +16,7 @@ Trabajando en <b>Multimadera</b>, un ERP full-stack para una empresa (React · N
     <th>Frontend &amp; Movil</th>
     <th>Databases</th>
     <th>DevOps &amp; Herramientas</th>
+    <th>Cloud</th>
   </tr>
   <tr>
     <td align="center">
