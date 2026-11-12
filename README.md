@@ -1,0 +1,34 @@
+
+<div align="center">
+
+### Stack
+
+<table>
+  <tr>
+    <th>Backend</th>
+    <th>Frontend &amp; Movil</th>
+    <th>Databases</th>
+    <th>DevOps &amp; Herramientas</th>
+    <th>Cloud</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,nestjs,supabase" alt="Backend stack" />
+    </td>
+    <td align="center">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=react,java" alt="Frontend stack" />
+    </td>
+    <td align="center">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=postgres,sqlserver" alt="Database stack" />
+    </td>
+    <td align="center">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=docker,vscode,visualstudio,androidstudio,git" alt="DevOps and tools stack" />
+    </td>
+    <td align="center">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=vercel,render,gcp" alt="DevOps and tools stack" />
+    </td>
+  </tr>
+</table>
+
+</div>
+
