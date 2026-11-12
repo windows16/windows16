@@ -13,7 +13,8 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,supabase" alt="Backend stack" />
+      <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend stack" />
+      <img src="https://skillicons.dev/icons?i=nestjs,supabase" alt="Backend stack" />
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=react,java" alt="Frontend stack" />
@@ -23,7 +24,8 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="48" alt="SQL Server" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=docker,vscode,visualstudio,androidstudio,git" alt="DevOps and tools stack" />
+      <img src="https://skillicons.dev/icons?i=docker,vscode,visualstudio" alt="DevOps and tools stack" />
+      <img src="https://skillicons.dev/icons?i=androidstudio,git" alt="DevOps and tools stack" />
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=vercel,gcp" alt="DevOps and tools stack" />
