@@ -13,8 +13,8 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend stack" />
-      <img src="https://skillicons.dev/icons?i=nestjs,supabase" alt="Backend stack" />
+      <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" alt="Backend stack" />
+      <img src="https://skillicons.dev/icons?i=supabase" alt="Backend stack" />
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=react,java" alt="Frontend stack" />
